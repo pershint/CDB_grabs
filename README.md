@@ -7,6 +7,7 @@ To use this file:
   2) In this file insert the following lines:
 
      username XXXXXXXX
+
      password XXXXXXXX
 
      where the X's are to be filled with the SNO+ collaboration credentials.
